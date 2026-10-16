@@ -1,0 +1,10 @@
+{
+  "name": "make-parts-now",
+  "version": "1.0.0",
+  "description": "Instant 3D printing and CNC machining quotes from your CAD files (STL, STEP, 3MF, OBJ): price and ship date for SLS nylon, FDM plastic, aluminum and brass parts made in the US, with a checkout link to order.",
+  "mcpServers": {
+    "make-parts-now": {
+      "httpUrl": "https://makepartsnow.com/mcp/assistant"
+    }
+  }
+}
