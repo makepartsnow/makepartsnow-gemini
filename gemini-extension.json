@@ -1,6 +1,6 @@
 {
   "name": "make-parts-now",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "3D printing and CNC machining quotes in Gemini CLI: instant price and ship date for custom parts from your CAD file (STL, STEP, 3MF, OBJ) in SLS nylon, FDM plastic, aluminum or brass, made in the US. Change the quote and get a checkout link to order.",
   "mcpServers": {
     "make-parts-now": {
